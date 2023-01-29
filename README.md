@@ -1,1 +1,1 @@
-Bu proje/repo ders3 ile ilgili kodları içerir.
+# # YTÜSEM Frontend React Javascript Kursu 22.01.2023 çalışması
